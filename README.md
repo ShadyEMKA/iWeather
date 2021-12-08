@@ -5,6 +5,7 @@
 2. Автоматическое определение геолокации пользователя
 3. Используемый API прогноза погоды от сервиса <https://openweathermap.org>
 4. Главный экран создан с помощью Compositional layout
+5. Вёрстка интерфейса только кодом
 # Интерфейс
 <img src="https://user-images.githubusercontent.com/88002422/145248892-0f496134-ea0b-4ccd-ac2f-020e34fbeda4.jpg" width="300" />
 <img src="https://user-images.githubusercontent.com/88002422/145248853-830b33e4-ad68-4354-915f-ebda6e40a09b.MP4" width="300" />
